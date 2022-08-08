@@ -8,7 +8,7 @@
       <b>
         Hi.
       <br>
-        I'm tokyo, a Student, I like Privacy and Security, but I don't like wasting time.
+        I'm tokyo, a Student, I like privacy and security, I don't like wasting time.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+hate+life.">
