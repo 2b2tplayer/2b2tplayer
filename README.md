@@ -11,7 +11,7 @@
         I'm tokyo, a student, I like privacy and security, I don't like wasting time.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+hate+life.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=tugend+oder+ruhm.">
       <br>
       <b>
         ~ tokyo  ~
