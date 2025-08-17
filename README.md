@@ -32,7 +32,7 @@
   <samp>
     [<a href="https://twitter.com/itsmaybetokyo">twitter</a>]
     [<a href="https://instagram.com/itsmaybetokyo">instagram</a>]
-    [<a href="mailto:999tokyo@criptext.com">e-mail</a>]
+    [<a href="mailto:tokyo@horsefucker.org">e-mail</a>]
   </samp>
 </p>
 
